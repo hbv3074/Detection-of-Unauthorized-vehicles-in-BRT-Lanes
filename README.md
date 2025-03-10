@@ -3,7 +3,7 @@
 ## 📌 Overview  
 This project aims to build a system that detects **unauthorized vehicles** in **Bus Rapid Transit (BRT) lanes** using **YOLOv8**, **Computer Vision**, and **Optical Character Recognition (OCR)**. The system identifies vehicles, extracts their license plate numbers, and cross-references them with a database of permitted vehicles. Unauthorized vehicles are flagged for further action.
 
-📄 **A research paper based on this project has been published.** [Read it here]((https://ieeexplore.ieee.org/document/10895734/authors)).
+📄 **A research paper based on this project has been published.** [!Read it here]((https://ieeexplore.ieee.org/document/10895734/authors)).
 ## ✨ Features  
 ✅ **Real-time License Plate Detection** with YOLOv8  
 ✅ **OCR-Based Plate Extraction** using EasyOCR  
