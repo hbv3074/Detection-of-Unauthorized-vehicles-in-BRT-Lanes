@@ -33,17 +33,18 @@ This project aims to build a system that detects **unauthorized vehicles** in **
 
 Below are the sample outputs of the **Unauthorized Vehicle Detection System in BRT Lanes**:
 
-### 🔍 License Plate Detection UI  
+🔍 **License Plate Detection UI**  
 The system detects and verifies license plates from a video input.  
-[License Plate Detector UI](Screenshot 2025-03-10 170919.png)  
+![License Plate Detector UI](Screenshot%202025-03-10%20170919.png)
 
-### 📋 Authorized Vehicles Database  
+📋 **Authorized Vehicles Database**  
 The CSV file contains **authorized license plate numbers** allowed in the BRT lane.  
-[Authorized Vehicles Database](Screenshot 2025-03-10 170924.png)  
+![Authorized Vehicles Database](Screenshot%202025-03-10%20170924.png)
 
-### 🚫 Unauthorized Vehicles Log  
+🚫 **Unauthorized Vehicles Log**  
 The system stores unauthorized vehicle **Car ID and License Number** in a separate CSV file.  
-[Unauthorized Vehicles Log](Screenshot 2025-03-10 170927.png)  
+![Unauthorized Vehicles Log](Screenshot%202025-03-10%20170927.png)
+  
 
 
 ## 🏗️ Future Enhancements  
