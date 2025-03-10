@@ -1,10 +1,41 @@
-This project is aimed to build a system that can detect unlicensed vehicles
-in Bus Rapid Transit (BRT) lanes by utilizing yolov8, computer vision and
-Optical Character Recognition (OCR). License plate detection will be
-supported by a YOLOv8 model trained specifically for license plates to
-identify and locate vehicles having license plates in dedicated BRT lanes.
-Next In line the text we will extract from vehicles with EasyOCR These
-cameras will capture the license plate and then cross reference that
-information to a database of all license plates used by people permitted onto
-that BRT lane. The successful rate of performance has been assessed based
-on detecting blacklisted cars and capturing their plates.
+# 🚗 Detection of Unauthorized Vehicles in BRT Lanes  
+
+## 📌 Overview  
+This project aims to build a system that detects **unauthorized vehicles** in **Bus Rapid Transit (BRT) lanes** using **YOLOv8**, **Computer Vision**, and **Optical Character Recognition (OCR)**. The system identifies vehicles, extracts their license plate numbers, and cross-references them with a database of permitted vehicles. Unauthorized vehicles are flagged for further action.  
+
+## ✨ Features  
+✅ **Real-time License Plate Detection** with YOLOv8  
+✅ **OCR-Based Plate Extraction** using EasyOCR  
+✅ **Database Cross-Verification** to identify unauthorized vehicles  
+✅ **Automated Flagging of Blacklisted Vehicles**  
+
+## 🛠️ Technology Stack  
+- **YOLOv8** – Object detection for vehicles and license plates  
+- **EasyOCR** – Extracting text from detected license plates  
+- **OpenCV** – Image processing and enhancement  
+- **Python** – Backend development and automation  
+
+## 📂 Project Workflow  
+1️⃣ **Vehicle & License Plate Detection** → YOLOv8 detects vehicles and license plates in BRT lanes  
+2️⃣ **License Plate Text Extraction** → EasyOCR extracts the plate number  
+3️⃣ **Database Cross-Checking** → The extracted plate number is matched against an authorized vehicle database  
+4️⃣ **Unauthorized Vehicle Flagging** → Blacklisted vehicles are identified and logged  
+
+## 🚀 Performance Evaluation  
+- **Accuracy** of license plate detection and extraction  
+- **Success rate** of identifying blacklisted vehicles  
+- **Efficiency** of real-time processing  
+
+## 📸 Sample Output  
+*(Include detection screenshots or sample images if available.)*  
+
+## 🏗️ Future Enhancements  
+🔹 Integration with **live CCTV feeds** for real-time tracking  
+🔹 Deployment on **edge devices** for faster processing  
+🔹 Development of a **dashboard for analytics and reporting**  
+
+## 🤝 Contributors  
+🚀 **Harsh Balkrishna Vahal** – [GitHub](#) | [LinkedIn](#)  
+
+## 📜 License  
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
