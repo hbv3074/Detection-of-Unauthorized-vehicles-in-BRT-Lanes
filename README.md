@@ -35,7 +35,10 @@ This project aims to build a system that detects **unauthorized vehicles** in **
 🔹 Development of a **dashboard for analytics and reporting**  
 
 ## 🤝 Contributors  
-🚀 **Harsh Balkrishna Vahal** – [GitHub](#) | [LinkedIn](#)  
+🚀 **Harsh Balkrishna Vahal**  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hbv3074)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vahal/)
+ 
 
 ## 📜 License  
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
