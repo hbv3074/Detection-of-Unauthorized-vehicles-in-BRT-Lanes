@@ -30,7 +30,6 @@ This project aims to build a system that detects **unauthorized vehicles** in **
 - **Efficiency** of real-time processing  
 
 ## 📸 Sample Output  
-## 📸 Output
 
 Below are the sample outputs of the **Unauthorized Vehicle Detection System in BRT Lanes**:
 
